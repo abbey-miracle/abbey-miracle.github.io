@@ -3,7 +3,7 @@ title: abbey's Blog
 SEOTitle: abbey 的小站
 header-img: img/post-bg-desk.jpg
 email: abbey-miracle@163.com
-description: "藏器于身，待时而动."
+description: " 藏器于身，待时而动 "
 keyword: "abbey's Blog, abbey的小站"
 url: "https://abbey-miracle.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -58,8 +58,8 @@ gitalk:
   clientID: 5943aeedd7ee1a1cbdf7        # 嘿，别乱看我的秘密                #生成的clientID
   clientSecret: 4ffbc9e4eb8b6aef2b390b2bda69ed6a744c5c07    #生成的clientSecret
   repo: kalicn.github.io    #仓库名称
-  owner: kalicn    #github用户名
-  admin: kalicn
+  owner: abbey-miracle    #github用户名
+  admin: abbey-miracle
   distractionFreeMode: false #是否启用类似FB的阴影遮罩
   perPage: 15
 
